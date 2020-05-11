@@ -1,0 +1,9 @@
+django
+djangorestframework
+drf-yasg
+python-dotenv
+django-grappelli
+dj-email-url
+
+
+
