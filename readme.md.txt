@@ -20,13 +20,14 @@ Tech stack : Django with python
 
 - Migrate and run the server
 
--python manage.py migrate
+
 -python manage.py makemigrations
+-python manage.py migrate
 -python manage.py runserver
 
 screen shots of all the working apis: 
 
-are also attached in werd document (screenshots)
+are also attached in word document (screenshots)
   
  
   
